@@ -4,6 +4,6 @@ HELP.md
 *.iml
 
 target/ # 忽略整个target文件夹
-.idea/
+/.idea/
 .mvn/
 test/
